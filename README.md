@@ -6,14 +6,14 @@
 
 This repository contains a Movie Recommender System built using Python, Streamlit, TensorFlow, and scikit-learn. The system uses pre-trained embeddings from TensorFlow Hub to generate movie embeddings, and then implements the k-nearest neighbors algorithm to recommend similar movies based on user input.
 
-![](https://github.com/Ayush240102/movie-receommender-system/blob/main/Images/demo_GIF.gif)
+![](https://github.com/Ayush240102/Movies-Recommendation-System/blob/main/Images/demo_GIF.gif)
 
 ## Getting Started
 
 To run the Movie Recommender System on your local machine, follow the steps below:
 
 1. Clone this repository to your local machine using the following command:      
-git clone https://github.com/Ayush240102/movie-receommender-system.git
+git clone https://github.com/Ayush240102/Movies-Recommendation-System.git
 
 2. Navigate to the repository directory: cd your-repository
 
@@ -33,9 +33,9 @@ The app will open in your default web browser, and you can start using it to get
 
 ## Screenshots/GIFs
 
-![Movie Recommender System Home Page](https://github.com/Ayush240102/movie-receommender-system/blob/main/Images/home.png)
+![Movie Recommender System Home Page](https://github.com/Ayush240102/Movies-Recommendation-System/blob/main/Images/home.png)
 
-![Movie Recommendations](https://github.com/Ayush240102/movie-receommender-system/blob/main/Images/recommendations.png)
+![Movie Recommendations](https://github.com/Ayush240102/Movies-Recommendation-System/blob/main/Images/recommendations.png)
 
 ## Overview what we have done
 1. We start by importing the required libraries, including pandas, numpy, tensorflow, tensorflow_hub, and sklearn.
